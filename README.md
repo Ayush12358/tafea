@@ -14,6 +14,9 @@ npm install
 nodemon server.js
 ```
 
+Do note that you need to have to enter your Gemini API key in the `.env` file. The other credentials have been made available for now for the purpose of this project.
+
+
 #### frontend
 
 ```bash
