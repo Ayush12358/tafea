@@ -39,7 +39,7 @@ We worked on this project as a team of 13 (in alphabetical order):
 - Adnan Qidwai
 - Alex Thuruthel
 - Arghya Roy
-- Ayush Maurya
+- [Ayush Maurya](https://github.com/Ayush12358)
 - Bharat Sahlot
 - Bhvya Kothari
 - Bipasha Garg
